@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一个无聊的小项目</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            /* background-color: #aeaaa5; */
+        }
+        body {
+            background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+        }
+        .one {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            background-color: yellow;
+            margin: auto;
+            margin-top: 70px;
+            border-radius: 100%;
+        }
+        .one:hover {
+            background-color: #000;
+            transition: all .6s linear;
+        }
+        .one:hover .auto {
+            background-color: #fff;
+            transition: all .3s;
+            border-radius: 100px 100px 3px 3px;
+        }
+        .one:hover .left,
+        .one:hover .right {
+            background-color: #fff;
+            transition: all .3s;
+        }
+        .left {
+            width: 28px;
+            height: 28px;
+            background-color: #000;
+            float: left;
+            margin: 75px 0px 0px 60px;
+            border-radius: 100%;
+        }
+        .right {
+            width: 28px;
+            height: 28px;
+            background-color: #000;
+            float: right;
+            border-radius: 100%;
+            margin: 75px 60px 0px 0px;
+        }
+        .auto {
+            position: absolute;
+            top: 180px;
+            left: 150px;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 30px;
+            background-color: red;
+            border-radius: 3px 3px 100px 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="one">
+        <div class="left"></div>
+        <div class="right"></div>
+        <div class="auto"></div>
+    </div>
+</body>
+</html>
