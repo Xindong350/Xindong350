@@ -5,7 +5,7 @@
 - 🤪我是一个友好的人，你可以在社交媒体上与我联系
 - 😱由于一些缘故 非计算机专业，但从小非常喜欢电脑 手机...
 - 🙄本Github里没有什么好康的，全都是学习过程中的垃圾代码
-- 😪我的另一个秘密小窝：[小城故事 - 欢迎光临！](https://www.xindong350.top)
+- 😪我的另一个秘密小窝：[小城故事 - 欢迎光临！](https://www.webxc.ml/)
 
 ![](https://github-readme-stats.vercel.app/api?username=web-xc&show_icons=true&theme=vue)
 
