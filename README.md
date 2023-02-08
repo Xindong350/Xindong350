@@ -8,8 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=web-xc&show_icons=true&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=web-xc&theme=buefy)
-
 <!--以下是一些帮助您入门的想法：
 
 - 🔭 我目前正在做 ...
